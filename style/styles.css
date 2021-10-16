@@ -1,0 +1,36 @@
+body{
+    font-family: verdana;
+}
+.navbar-nav > li > a{
+    color: darkslategray;
+    margin-left: 68px;
+}
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
+    color: #3AAFA9;
+    opacity: 0.6;
+}
+a{
+    color: darkslategray; 
+}
+a:hover{
+    color: #3AAFA9;
+    opacity: 0.6; 
+}
+.page-footer{
+    background-color: #eeeeee;
+}
+.panel-1{
+ background-color: #FEFFFF;   
+}
+.button-color{
+    background-color: #17252A;
+    color: #FEFFFF;
+}
+.button-color:hover{
+    background-color: #3AAFA9;
+    color: black;
+}
+.form1{
+    font-size: 9pt;
+    font-weight: bold;
+}
